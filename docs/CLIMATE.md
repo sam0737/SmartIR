@@ -149,6 +149,7 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | [1030](../codes/climate/1030.json) | CS-E12JKDW <b>(Swing mode)</b>	    							  | Broadlink  |
 | [1031](../codes/climate/1031.json) | SRK25ZMP-S<br>SRK35ZMP-S<br>SRK45ZMP-S	    					  | Broadlink  |
 | [1032](../codes/climate/1032.json) | CS-CU-HU18YKYF	    					                                      | Broadlink  |
+| [1035](../codes/climate/1035.json) | CW-HU70ZA (tested)<br>CW-HU90ZA / CW-HU120ZA / CW-HU180ZA<br>CW-HU70AA / CW-HU90AA / CW-HU120AA / CW-HU180AA<br>CW-HZ70AA / CW-HZ90AA / CW-HZ180AA <b>(Window; nanoeX folded into swing)</b> | Broadlink  |
 
 #### General Electric
 | Code                               | Supported Models                                                                               | Controller |
